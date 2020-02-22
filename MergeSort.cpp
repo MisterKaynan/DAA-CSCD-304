@@ -59,6 +59,6 @@ int main()
     cout<<"Sorted array\n";
     for (int i = 0; i < num; i++)
     {
-        cout<<myarray[i]<<"\t";
+        cout<<i<<" "<<myarray[i]<<"\t";
     }
 }
